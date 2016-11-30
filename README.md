@@ -26,4 +26,4 @@ when Activity onDestroy
 ~~~
 #Future
 add method to get title by httpUrlConnection and InputStream.No longer need to load all pages.
-Read  "<title>" using byte stream
+Read  tag "title" using byte stream
