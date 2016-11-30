@@ -1,4 +1,5 @@
 # GetWebsiteTitle
+Android code.
 Get the title by giving URL through creating an invisible webview.
 
 # How to use it
@@ -23,4 +24,6 @@ when Activity onDestroy
         client.destory();
     }
 ~~~
- 
+#Future
+add method to get title by httpUrlConnection and InputStream.No longer need to load all pages.
+Read  "<title>" using byte stream
